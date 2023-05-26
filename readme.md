@@ -20,7 +20,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arunp10&border_radius=4.1&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+
+[![Aroon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arunp10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/arunp10/github-readme-stats#gh-dark-mode-only)
+[![Aroon's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=arunp10&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/arunp10/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunp10)](https://github.com/arunp10/github-readme-stats)
 
-[![Aroon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arunp10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Aroon's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=arunp10&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
