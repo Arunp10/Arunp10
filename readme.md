@@ -1,6 +1,5 @@
 ### Hi I am Aroon Kumar 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 More About Me:
 
@@ -20,9 +19,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<h2>
-:fire: My Stats : </h2>
 
+### :fire: My Stats : 
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arunp10&border_radius=4.1&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
@@ -41,3 +41,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunp10)](https://github.com/arunp10/github-readme-stats)
 
+</div>
