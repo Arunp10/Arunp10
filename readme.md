@@ -1,9 +1,13 @@
 ### Hi I am Aroon Kumar 👋
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+### 🧐 More About Me:
+
 - 🔭 I’m currently pursuing computer science degree.
 - 🌱 I’m currently working on React Js, Express ,MongoDB, Nodejs and Machine Learning.
 
-<h2>🔨Languages and Tools: </h2>
+### 🔨 Languages and Tools:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp;
